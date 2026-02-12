@@ -1,0 +1,3 @@
+-- Homens idosos com hipertensão têm maior taxa de retorno?
+-- Pacientes com muitas medicações e alta pressão ficam mais dias internados e retornam mais?
+-- Qual perfil mais aparece entre os readmitidos?

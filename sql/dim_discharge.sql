@@ -1,0 +1,2 @@
+-- Qual destino de alta gera mais readmissões?
+-- Quem vai para casa ou para reabilitação retorna mais?
