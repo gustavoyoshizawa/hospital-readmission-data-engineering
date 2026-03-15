@@ -1,0 +1,5 @@
+pandas
+numpy
+pyarrow
+mysql-connector-python
+jupyter
